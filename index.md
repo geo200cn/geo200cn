@@ -1,8 +1,6 @@
 ---
 title: 'GEO 200CN: Quantitative Geography'
-subtitle: <h4 style="font-style:normal">Professor Noli Brazil</h4>
-author: <h4 style="font-style:normal">University of California, Davis</h4>
-date: <h4 style="font-style:normal">Department of Human Ecology, Community and Regional Development</h4>
+output: html_document
 ---
 
 
@@ -43,6 +41,10 @@ h2.title {
 </style>
 
 
+
+<h4 style="font-style:normal">Professor Noli Brazil</h4>
+<h4 style="font-style:normal">University of California, Davis</h4>
+<h4 style="font-style:normal">Department of Human Ecology, Community and Regional Development</h4>
 
 \
 
